@@ -15,6 +15,8 @@ Berisi semua desain yang pernah saya buat seperti Logo, Undangan, Spanduk dan la
 <a><img src="https://github.com/giovannyrogi/Desain-Grafis/blob/main/Kartu/depan%202.png?raw=true" alt="Kartu-2-Depan" border="0" width="300"></a>
 <a><img src="https://github.com/giovannyrogi/Desain-Grafis/blob/main/Kartu/belakang%202.png?raw=true" alt="Kartu-2-Belakang" border="0" width="300"></a>
 </br>
+<a><img src="https://github.com/giovannyrogi/Desain-Grafis/blob/main/Kartu/REKENING%202.png?raw=true" alt="Kartu-Rekening" border="0" width="300">
+</br>
 # Logo
 <a><img src="https://github.com/giovannyrogi/Desain-Grafis/blob/main/Logo/1.png?raw=true" alt="Logo-1" border="0" width="200"></a>
 <a><img src="https://github.com/giovannyrogi/Desain-Grafis/blob/main/Logo/2.png?raw=true" alt="Logo-2" border="0" width="200"></a>
