@@ -26,7 +26,6 @@ Berisi semua desain yang pernah saya buat seperti Logo, Undangan, Spanduk dan la
 </br>
 <a><img src="https://github.com/giovannyrogi/Desain-Grafis/blob/main/Makanan/Makanan%201.png?raw=true" alt="Logo-8" border="0" width="400"></a>
 <a><img src="https://github.com/giovannyrogi/Desain-Grafis/blob/main/Makanan/Makanan%202.png?raw=true" alt="Logo-9" border="0" width="300"></a>
-
 </br>
 # Undangan
 <a><img src="https://github.com/giovannyrogi/Desain-Grafis/blob/main/Undangan/Invitation%201.png?raw=true" alt="Logo-1" border="0" width="400"></a>
